@@ -1,3 +1,4 @@
 # TIC_TAC_TOE
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
-AUTHOR-priya kumari
+<br>
+Author-Priya Kumari
